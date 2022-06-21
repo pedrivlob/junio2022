@@ -1,1 +1,1 @@
-# junio2022
+# Examen de prácticas de Factorías de Software
